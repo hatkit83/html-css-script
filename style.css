@@ -1,0 +1,29 @@
+
+.container {
+	width:600px;
+	margin:0 auto;
+	display: block;	
+}
+
+
+#title p{
+
+	 font-size: 1.8666666667rem ; 
+	 font-family: CNN,Helvetica Neue,Helvetica,Arial,Utkal,sans-serif;	 
+	 font-weight: 300;
+	 line-height: 1.2142857143; 
+	 direction: rtl;
+
+}
+
+#content p{
+  
+  color: #262626;
+  font-family: CNN,Helvetica Neue,Helvetica,Arial,Utkal,sans-serif;
+  font-weight: 300
+  font-size: 1.2rem;
+  line-height: 1.6666666667;
+  margin: 1em 0;
+  direction: rtl;
+
+}
